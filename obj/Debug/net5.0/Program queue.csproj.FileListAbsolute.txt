@@ -1,0 +1,16 @@
+C:\Users\kalvi\Documents\Program queue\bin\Debug\net5.0\Program queue.exe
+C:\Users\kalvi\Documents\Program queue\bin\Debug\net5.0\Program queue.deps.json
+C:\Users\kalvi\Documents\Program queue\bin\Debug\net5.0\Program queue.runtimeconfig.json
+C:\Users\kalvi\Documents\Program queue\bin\Debug\net5.0\Program queue.runtimeconfig.dev.json
+C:\Users\kalvi\Documents\Program queue\bin\Debug\net5.0\Program queue.dll
+C:\Users\kalvi\Documents\Program queue\bin\Debug\net5.0\ref\Program queue.dll
+C:\Users\kalvi\Documents\Program queue\bin\Debug\net5.0\Program queue.pdb
+C:\Users\kalvi\Documents\Program queue\obj\Debug\net5.0\Program queue.csproj.AssemblyReference.cache
+C:\Users\kalvi\Documents\Program queue\obj\Debug\net5.0\Program queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalvi\Documents\Program queue\obj\Debug\net5.0\Program queue.AssemblyInfoInputs.cache
+C:\Users\kalvi\Documents\Program queue\obj\Debug\net5.0\Program queue.AssemblyInfo.cs
+C:\Users\kalvi\Documents\Program queue\obj\Debug\net5.0\Program queue.csproj.CoreCompileInputs.cache
+C:\Users\kalvi\Documents\Program queue\obj\Debug\net5.0\Program queue.dll
+C:\Users\kalvi\Documents\Program queue\obj\Debug\net5.0\ref\Program queue.dll
+C:\Users\kalvi\Documents\Program queue\obj\Debug\net5.0\Program queue.pdb
+C:\Users\kalvi\Documents\Program queue\obj\Debug\net5.0\Program queue.genruntimeconfig.cache
